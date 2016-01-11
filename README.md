@@ -1,4 +1,4 @@
-클라이언트 console.log 를 서버로 보내 줍니다.
+https://www.npmjs.com/package/body-parser 의 body-parer 를 미티어에서도 사용해보자.
 
 ### 설치 방법
 
